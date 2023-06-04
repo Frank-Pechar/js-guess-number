@@ -1,3 +1,15 @@
-# Guess My Number Game - JavaScript Course Project
+# Guess the Number Game 
+# JavaScript Course Project
+## Desription of App Functionality, Features, and Methods
 
-JavaScript Course Coding Project by Jonas Schmedtmann I Completed. After coding JavaScript for this game through the course I then added further features and modifications.
+Javascript coding project I completed the Udemy - The Complete Javascript Course 2023: From Zero to Expert by Jonas Schmedtmann. After coding this game app through the course I then added additional formatting modifications and extensive commenting of the code for educational purposes.
+
+App can be run from: https://frank-pechar-js-guess-number.netlify.app/
+
+## This App Uses Javascript Features Such As:
+
+- Basic DOM manipulation
+
+## Coding Methods and Features Used:
+
+- Basic DOM manipulation
