@@ -22,9 +22,11 @@ document.querySelector('.check').addEventListener('click', function () {
     document.querySelector('.number').textContent = secretNumber;
 
     document.querySelector('body').style.backgroundColor = '#60b347';
-    document.querySelector('.number').style.width = '30rem';
-    document.querySelector('.message').style.fontSize = '3rem';
-
+    const wonMessage = document.querySelector('.message');
+    wonMessage.style.fontSize = '2.4rem';
+    wonMessage.style.position = 'absolute';
+    wonMessage.style.top = '35%';
+    wonMessage.style.left = '50%';
     if (score > highscore) {
       highscore = score;
       document.querySelector('.highscore').textContent = highscore;
