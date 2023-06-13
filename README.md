@@ -11,7 +11,7 @@ App can be run from: https://frank-pechar-js-guess-number.netlify.app/
 This App is a Number Guessing Game 
 
 To Start a New Game
--Click the &lt;New Game&gt; Button
+- Click the &lt;New Game&gt; Button
 
 Guess a Number
 - Enter a number between 1 and 20 in the blank box and click the &lt;Check&gt; Button
