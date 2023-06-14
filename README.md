@@ -6,9 +6,11 @@ Javascript coding project I completed from Udemy - The Complete Javascript Cours
 
 App can be run from: https://frank-pechar-js-guess-number.netlify.app/
 
-## App Functionality
+## App Description 
 
-This App is a Number Guessing Game 
+This App is a Number Guessing Game. 
+
+## App Functionality
 
 To Start a New Game
 - Click the &lt;New Game&gt; Button
