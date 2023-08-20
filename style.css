@@ -21,7 +21,7 @@ body {
 }
 header {
   position: relative;
-  height: 42vh;
+  height: 42svh;
   border-bottom: 1rem solid #eee;
   margin-top: 4rem;
 }
@@ -59,7 +59,7 @@ h1 {
   transform: translate(-50%, 50%);
 }
 main {
-  height: 58vh;
+  height: 58svh;
   color: #eee;
   display: -webkit-box;
   display: -ms-flexbox;
