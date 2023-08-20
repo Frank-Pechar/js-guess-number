@@ -18,11 +18,13 @@ body {
   font-family: 'Press Start 2P', sans-serif;
   color: #eee;
   background-color: #222;
+  height: 100vh;
   height: 100svh;
 }
 
 header {
   position: relative;
+  height: 42vh;
   height: 42svh;
   border-bottom: 1rem solid #eee;
   margin-top: 4rem;
@@ -62,6 +64,7 @@ h1 {
 }
 
 main {
+  height: 58vh;
   height: 58svh;
   color: #eee;
   display: flex;
