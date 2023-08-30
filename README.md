@@ -2,7 +2,7 @@
 ## JavaScript Project
 ## Description of App Functionality, Features, and Methods
 
-Javascript coding project I completed from Udemy - The Complete Javascript Course 2023: From Zero to Expert by Jonas Schmedtmann. After coding this project through the course I then added additional formatting modifications and commenting of the code.
+Javascript coding project I completed from Udemy - The Complete Javascript Course 2023: From Zero to Expert by Jonas Schmedtmann. This project was originally designed just for the desktop. I created necessary adaptations for mobile devices. I also made numerous other refinements and extensively commented the JavaScript code for educational purposes. 
 
 App can be run from: https://frank-pechar-js-guess-number.netlify.app/
 
